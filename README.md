@@ -1,1 +1,1 @@
-# Accelergy-Aladdin-Yosys-plug-in
+## Accelergy-Aladdin-Yosys-plug-in
