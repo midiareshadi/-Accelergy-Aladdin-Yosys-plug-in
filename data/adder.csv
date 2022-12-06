@@ -4,6 +4,6 @@ latency(ns),dynamic energy(pJ),leakage power(mW),idle energy(pJ),area(um^2),comm
 2,0.0858,0.0024,0.0048,1.79E+02,this is a one stage adder
 3,0.0859,0.0024,0.0071,1.79E+02,this is a one stage adder
 4,0.0857,0.0024,0.0095,1.79E+02,this is a one stage adder
-5,0.0857,0.0024,0.0119,1.79E+02,this is a one stage adder
+5,0.0857,0.0024,0.0119,412.3,The area result is based on 32-bit int adder, obtained from Yosys and 45 nm open cell library
 6,0.0857,0.0024,0.0143,1.79E+02,this is a one stage adder
 10,0.0853,0.0024,0.0238,1.79E+02,this is a one stage adder
