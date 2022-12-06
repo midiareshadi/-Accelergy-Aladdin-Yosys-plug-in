@@ -4,6 +4,6 @@ latency(ns),dynamic energy(pJ),leakage power(mW),idle energy(pJ),area(um^2),comm
 2,9.55,0.05,0.1,5.14E+03,this is a 1 stage fixed point multiplier
 3,8.8,0.05,0.14,4.97E+03,this is a 1 stage fixed point multiplier
 4,8.66,0.05,0.19,4.62E+03,this is a 1 stage fixed point multiplier
-5,8.63,0.05,0.24,4.60E+03,this is a 1 stage fixed point multiplier
+5,8.63,0.05,0.24,4134.438,Updated area based on 45 nm open cell library and Yosys synthesis
 6,8.63,0.05,0.29,4.60E+03,this is a 1 stage fixed point multiplier
 10,8.8,0.05,0.48,4.60E+03,this is a 1 stage fixed point multiplier
